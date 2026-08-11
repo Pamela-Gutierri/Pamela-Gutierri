@@ -177,6 +177,23 @@ Meu objetivo é unir essas duas perspectivas:
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pamela-Gutierri&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamela-Gutierri&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pamela-Gutierri&theme=tokyonight" />
+</p>
+
+---
+
 ## 💡 O que estou construindo
 
 Meu portfólio acompanha minha evolução profissional e técnica, com projetos relacionados a:
