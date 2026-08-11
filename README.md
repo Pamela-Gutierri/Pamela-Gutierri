@@ -1,218 +1,200 @@
-# 👩🏻‍💻 Pamela Gutierri
+# 👩🏻‍💻 Pâmela Portela
 
-### Tecnologia da Informação • Processos • Dados • Automação • Projetos
+**Tecnologia da Informação • Processos • Dados • Automação • Transformação Digital**
 
-Profissional formada em **Gestão da Tecnologia da Informação**, com pós-graduação em **Gerenciamento de Projetos em TI** e **MBA Executivo em Gestão Bancária**.
+Tecnóloga em **Gestão da Tecnologia da Informação**, com pós-graduação em **Gerenciamento de Projetos em TI** e **MBA em Gestão Bancária e Finanças Executivas**.
 
-Atualmente atuo com **processos, indicadores, atendimento, sistemas e rotinas operacionais**, utilizando tecnologia para organizar informações, melhorar processos e apoiar a tomada de decisões.
-
-Tenho interesse em **Tecnologia, Projetos de TI, Transformação Digital, Automação de Processos, Dados e Cloud**, buscando evoluir tecnicamente enquanto amplio minha atuação em gestão e projetos.
+Atuo na interseção entre **tecnologia, processos e negócio**, utilizando dados, automação e ferramentas digitais para apoiar operações, indicadores e melhoria contínua.
 
 ---
 
-## 🚀 Sobre mim
+## 🎯 Sobre mim
 
-* 🎓 Formação em **Gestão da Tecnologia da Informação**
-* 📚 Pós-graduação em **Gerenciamento de Projetos em TI**
-* 💼 MBA Executivo em **Gestão Bancária**
-* 📊 Experiência com **indicadores, KPIs, relatórios e análise de dados**
-* ⚙️ Experiência com **automação de processos**
-* 📈 Utilização de **Excel e Power BI** para acompanhamento de informações e resultados
-* 🗂️ Experiência com **sistemas, CRM, agendas e processos operacionais**
-* 🔄 Interesse em **melhoria contínua e transformação digital**
-* 📋 Interesse em **gestão de projetos, processos e tecnologia**
-* 💻 Em desenvolvimento técnico em **Python, SQL, Git, APIs e Cloud**
+Atualmente trabalho na **FertVida Prime (FERTGROUP)** como **Assistente de Relacionamento com o Cliente**, atuando em processos operacionais, gestão de agendas, indicadores, atendimento e automação.
+
+Minha experiência profissional me permite compreender tanto as **necessidades do negócio** quanto as oportunidades de aplicação da **tecnologia para melhorar processos e resultados**.
+
+Tenho interesse em desenvolver minha carreira em **Tecnologia, Dados, Automação, Projetos e Transformação Digital**, ampliando gradualmente minha atuação técnica em **Python, SQL, APIs, Git e outras tecnologias**.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 💼 Experiência Profissional
+
+### FertVida Prime — FERTGROUP
+
+**Assistente de Relacionamento com o Cliente**
+`Abril/2026 – Presente`
+
+Atuação em processos administrativos e relacionamento com clientes, utilizando tecnologia para apoiar a operação e a tomada de decisão.
+
+* Gestão de agendas e processos utilizando **ClinicSys**
+* Acompanhamento e organização de **indicadores e KPIs**
+* Elaboração e acompanhamento de **relatórios e dashboards**
+* Utilização de **Power BI** para análise e apresentação de indicadores
+* Desenvolvimento de **automações com Power Automate**
+* Atendimento por canais digitais e **Omnichannel**
+* Utilização de **Excel e Google Sheets** para controles e análises
+* Uso de ferramentas de **Inteligência Artificial** para otimização de tarefas
+* Identificação de oportunidades de **melhoria contínua e automação de processos**
+
+### Qiu Ling Comércio Varejista LTDA-ME
+
+**Vendedora**
+`Período anterior`
+
+* Atendimento a clientes **B2B e B2C**
+* Prospecção, relacionamento e fidelização
+* Negociação comercial
+* Gestão de pedidos e acompanhamento de vendas
+* Controle de estoque e pós-venda
+* Utilização de sistemas **CRM e ERP**
+* Experiência com **Olist e Bling**
+
+---
+
+## 🛠️ Tecnologias e Competências
 
 ### 📊 Dados & Indicadores
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square\&logo=microsoftexcel\&logoColor=white)
+`Excel` `Power BI` `Google Sheets` `KPIs` `Dashboards` `Relatórios`
 
-**Power BI • Excel • Indicadores • KPIs • Relatórios • Análise de dados**
-
----
+Experiência prática com organização, análise e apresentação de dados para acompanhamento de indicadores operacionais.
 
 ### ⚙️ Automação & Processos
 
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square\&logo=powerautomate\&logoColor=white)
+`Power Automate` `Automação de Processos` `Melhoria Contínua` `Transformação Digital`
 
-**Power Automate • Automação de processos • Power Platform • Melhoria contínua**
+Utilização de automação para reduzir atividades manuais, organizar fluxos e melhorar processos administrativos.
 
----
+### 🗂️ Sistemas & Ferramentas
 
-### 🗂️ Sistemas & Gestão
+`ClinicSys` `CRM` `ERP` `Google Workspace` `Microsoft Teams` `Microsoft Outlook`
 
-**CRM • Sistemas corporativos • Gestão de processos • Organização de informações • Rotinas operacionais**
+### 🤖 Inteligência Artificial
 
----
+`ChatGPT` `Claude` `IA aplicada à produtividade`
 
-## 💻 Tecnologias em desenvolvimento
+Aplicação de ferramentas de IA para apoio à organização, análise, documentação e otimização de atividades.
 
-Atualmente estou ampliando minha base técnica em desenvolvimento e infraestrutura:
+### 🐍 Desenvolvimento
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+`Python` `SQL` `Git` `GitHub` `APIs`
 
-**Python • SQL • Git • GitHub • APIs**
-
-### ☁️ Próximos passos
-
-**Linux → Azure → Docker → CI/CD → Terraform → Kubernetes**
-
-> Essas tecnologias fazem parte da minha trilha de desenvolvimento e serão incorporadas ao meu portfólio conforme eu avançar nos estudos e projetos práticos.
+**Em desenvolvimento técnico**, com foco na construção de uma base sólida para automação, integração de sistemas e soluções orientadas a dados.
 
 ---
 
 ## 📂 Projetos
 
-### 📊 Dados & Indicadores
+### 01. Automação de Cadastro de Pacientes
 
-Projetos voltados para **organização, análise e visualização de dados**, com foco em transformar informações em indicadores que auxiliem no acompanhamento de resultados.
+**Power Automate • ClinicSys**
 
-**Tecnologias:**
-`Power BI` `Excel`
-
----
-
-### ⚙️ Automação de Processos
-
-Projetos voltados para **automatização de atividades repetitivas**, organização de informações e melhoria de processos.
-
-**Tecnologias:**
-`Power Automate` `Excel` `Power Platform`
+Automação de etapas do processo de cadastro de pacientes, buscando reduzir atividades manuais, padronizar informações e melhorar o fluxo operacional.
 
 ---
 
-### 🐍 Python & Dados
+### 02. Automação de Processos Administrativos
 
-Projetos de aprendizado voltados para desenvolvimento em Python, manipulação de dados e automação de tarefas.
+**Power Automate**
 
-**Tecnologias:**
-`Python` `SQL` `Git` `GitHub`
-
----
-
-### ☁️ Cloud & Infraestrutura
-
-Projetos de estudo que farão parte da minha evolução técnica em Cloud e infraestrutura.
-
-**Trilha:**
-`Linux` `Azure` `Docker` `CI/CD` `Terraform` `Kubernetes`
+Criação e utilização de fluxos automatizados para apoiar atividades administrativas e reduzir tarefas repetitivas.
 
 ---
 
-## 📚 Atualmente estudando
+### 03. Dashboard de Indicadores Operacionais
 
-Minha evolução técnica está sendo construída de forma progressiva:
+**Excel • Google Sheets • Power BI**
 
-```text
-Processos & Gestão
-        ↓
-Dados & Indicadores
-        ↓
-Automação
-        ↓
-Python & SQL
-        ↓
-Git & GitHub
-        ↓
-APIs
-        ↓
-Linux
-        ↓
-Azure
-        ↓
-Docker
-        ↓
-CI/CD
-        ↓
-Terraform
-        ↓
-Kubernetes
-```
-
-Meu objetivo não é apenas aprender ferramentas, mas entender **como a tecnologia pode resolver problemas reais de negócio**.
+Organização e acompanhamento de indicadores operacionais para facilitar a visualização de resultados e apoiar apresentações e tomadas de decisão.
 
 ---
 
-## 🎯 Objetivo profissional
+## 🎓 Formação Acadêmica
 
-Construir uma carreira em **Tecnologia, Projetos e Transformação Digital**, conectando **processos, dados e tecnologia**.
+### Pós-graduação
 
-Busco oportunidades em que possa utilizar minha experiência em **gestão, processos, indicadores e atendimento** enquanto desenvolvo cada vez mais minhas competências técnicas.
+**Gerenciamento de Projetos em Tecnologia da Informação**
+UniVitória EAD • 2025
 
-No médio e longo prazo, tenho interesse em evoluir para posições de **liderança e gestão de projetos, processos e tecnologia**, mantendo uma sólida base técnica.
+### MBA Executivo
 
----
+**Gestão Bancária e Finanças Executivas**
+UniVitória EAD • 2025
 
-## 📈 Minha evolução
+### Graduação
 
-```text
-Gestão & Processos
-        ↓
-Dados & Indicadores
-        ↓
-Automação
-        ↓
-Tecnologia
-        ↓
-Projetos
-        ↓
-Transformação Digital
-        ↓
-Liderança & Gestão
-```
-
-Acredito que profissionais de tecnologia precisam entender não apenas **como uma solução funciona**, mas também **qual problema ela resolve e qual resultado entrega para o negócio**.
-
-Meu objetivo é unir essas duas perspectivas:
-
-**Negócio + Processos + Dados + Tecnologia**
+**Tecnólogo em Gestão da Tecnologia da Informação**
+Estácio de Sá • 2024
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🚀 Objetivo Profissional
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pamela-Gutierri&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamela-Gutierri&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+Construir uma carreira em **Tecnologia**, atuando em projetos que conectem **processos, dados e soluções tecnológicas**.
+
+Busco evoluir tecnicamente em:
+
+* 📊 **Análise de Dados e Business Intelligence**
+* ⚙️ **Automação de Processos**
+* 🐍 **Python e SQL**
+* 🔗 **APIs e integrações**
+* ☁️ **Cloud e tecnologias Microsoft**
+* 📋 **Projetos de Tecnologia**
+* 🔄 **Transformação Digital**
+
+Meu objetivo é combinar minha experiência em **processos e negócio** com o desenvolvimento de competências técnicas para participar da criação e evolução de soluções de tecnologia.
 
 ---
 
-## 💡 O que estou construindo
+## 🌎 Idiomas
 
-Meu portfólio acompanha minha evolução profissional e técnica, com projetos relacionados a:
+* 🇧🇷 **Português:** Nativo
+* 🇺🇸 **Inglês:** Básico
+* 🇪🇸 **Espanhol:** Básico
 
-* 📊 Análise de dados e indicadores
-* ⚙️ Automação de processos
-* 🐍 Python
-* 🗄️ Dados e SQL
-* 🔗 APIs e integrações
-* ☁️ Cloud
-* 🔧 Infraestrutura e DevOps
-* 📋 Gestão e projetos de TI
+---
 
-A ideia é transformar cada etapa de estudo em **projetos práticos**, documentando aprendizados, soluções e resultados.
+## 📊 GitHub
+
+<div align="center">
+
+<!-- Adicione aqui seus cards de estatísticas quando houver projetos públicos suficientes -->
+
+</div>
 
 ---
 
 ## 📫 Vamos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamela-gutierri)
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Pamela-Gutierri)
+<a href="https://www.linkedin.com/in/pamela-gutierri">
+<img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:gutierri2017@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/Pamela-Gutierri">
+<img src="https://img.shields.io/badge/GitHub-Pamela--Gutierri-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Transformando processos em soluções através da tecnologia
+
+**Processos • Dados • Automação • Tecnologia**
+
+</div>
 
 ---
 
 <p align="center">
-  <strong>Transformando processos em soluções através da tecnologia.</strong>
-  <br>
-  <sub>Tecnologia • Automação • Dados • Projetos</sub>
+<sub>Última atualização: Agosto de 2026</sub>
 </p>
