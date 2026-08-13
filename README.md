@@ -40,7 +40,7 @@ Atuação em processos administrativos e relacionamento com clientes, utilizando
 ### Qiu Ling Comércio Varejista LTDA-ME
 
 **Vendedora**
-`Período anterior`
+`Fevereiro/2022 - Setembro de 2025`
 
 * Atendimento a clientes **B2B e B2C**
 * Prospecção, relacionamento e fidelização
